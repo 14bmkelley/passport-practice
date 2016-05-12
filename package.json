@@ -1,0 +1,31 @@
+{
+  "name": "passport-practice",
+  "version": "0.0.0",
+  "description": "I am using this to practice using Passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/14bmkelley/passport-practice.git"
+  },
+  "keywords": [
+    "Passport",
+    "Node.js",
+    "Node",
+    "Express"
+  ],
+  "author": "Brandon M. Kelley",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/14bmkelley/passport-practice/issues"
+  },
+  "homepage": "https://github.com/14bmkelley/passport-practice",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}
