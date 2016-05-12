@@ -4,6 +4,7 @@
   "description": "I am using this to practice using Passport.js",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "npm start"
   },
   "repository": {
@@ -23,7 +24,6 @@
   },
   "homepage": "https://github.com/14bmkelley/passport-practice",
   "dependencies": {
-    "body-parser": "^1.15.1",
     "express": "^4.13.4",
     "passport": "^0.3.2",
     "passport-facebook": "^2.1.0"
